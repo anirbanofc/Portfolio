@@ -392,7 +392,8 @@ section {
 }
 
 .portfolio .box-container .box {
-    height: 25rem;
+
+    height: 30rem;
     border-radius: .5rem;
     overflow: hidden;
     box-shadow: var(--box-shadow);
